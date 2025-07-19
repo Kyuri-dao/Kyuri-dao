@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+1. I'm a student at Japan.
+
+2. I'm using and studying these: Typescript, React, Nextjs. I also have used C# before.
+
+3. If you have free time, I want you to see my website.
+
+## Languages I use
+
+<img src="https://skillicons.dev/icons?i=typescript,python,cs,"> <br /><br />
+
+## Frameworks and Library I use
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,supabase,dotnet"> <br /><br />
