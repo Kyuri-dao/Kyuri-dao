@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Languages I use
 
-<img src="https://skillicons.dev/icons?i=typescript,python,cs,"> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript,js,python,cs,"> <br /><br />
 
 ## Frameworks and Library I use
 
