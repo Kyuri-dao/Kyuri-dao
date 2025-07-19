@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Just student who loved front-end.(they've been studying the back end lately...)
 <!--
 **Kyuri-dao/Kyuri-dao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About me
 1. I'm a student at Japan.
 
-2. I'm using and studying these: Typescript, React, Nextjs. I also have used C# before.
+2. I'm using and learning these: Typescript, React, Nextjs. I also have used C# before.
 
 3. If you have free time, I want you to see my website.
 
