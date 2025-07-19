@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 3. If you have free time, I want you to see my website.
 
+![](https://github-readme-stats.vercel.app/api/top/langs?username=Kyuri-dao)
+
 ## Languages I use
 
 <img src="https://skillicons.dev/icons?i=typescript,python,cs,"> <br /><br />
